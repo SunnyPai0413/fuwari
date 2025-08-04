@@ -1,0 +1,6 @@
+# 朋友们 Friends
+
+| <div align="center"><img src="https://q1.qlogo.cn/g?b=qq&nk=3526514925&s=640" width="45%"><br>[風雪城](https://blog.chyk.ink/)</div> | <div align="center"><img src="https://blog.shenmo.tech/img/avatar.jpeg" width="50%"><br>[shenmo的世界](https://blog.shenmo.tech/)</div> |
+| :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------: |
+| <div align="center"><img src="https://assets.blog.edge.sunnypai.top/BlogOffline.jpg" width="50%"><br>[哲学系的李诗人 - LeePoet Note](https://www.leepoet.cn/)</div>          | <div align="center"><img src="https://blog.kiyoi.xyz/avator.webp" width="50%"><br>[Kiyoi's Blog](https://blog.kiyoi.xyz/)</div>            |
+| <div align="center"><img src="https://assets.blog.edge.sunnypai.top/SunnyPai-logo-lxsf.png" width="50%"><br>[虚位以待，请留言或邮件联系申请~](mailto:sunnypai@luckydog.moe)</div> |                                                                                                                                        |
