@@ -1,5 +1,5 @@
 ---
-title: 自建tailscale-derper踩坑日记
+title: Tailscale续集-自建Headscale&Derp
 published: 2026-05-14
 tags:
   - Networking
